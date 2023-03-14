@@ -1,1 +1,1 @@
-system devops
+shell,init files,variable and expansions
